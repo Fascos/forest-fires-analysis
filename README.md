@@ -1,4 +1,4 @@
-# 🌲 Forest Fires Analysis
+#  Forest Fires Analysis
 
 <p align="center">
   <img src="images/forest_fire_banner.jpg" alt="Forest Fire Banner" width="100%">
@@ -7,7 +7,7 @@
 An end-to-end data science project exploring the environmental factors that influence wildfire size and severity using exploratory data analysis, statistical modeling, and machine learning.
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 Wildfires pose significant environmental, economic, and public safety challenges. Understanding the conditions that contribute to wildfire behavior can support better prevention strategies and resource allocation.
 
@@ -15,7 +15,7 @@ In this project, I analyzed the Forest Fires dataset from the UCI Machine Learni
 
 ---
 
-## 🚀 Project Highlights
+##  Project Highlights
 
 - Cleaned and validated a real-world wildfire dataset.
 - Removed duplicate observations to improve data quality.
@@ -29,7 +29,7 @@ In this project, I analyzed the Forest Fires dataset from the UCI Machine Learni
 
 ---
 
-## 🎯 Business Problem
+## Business Problem
 
 Wildfires can cause extensive damage to ecosystems, infrastructure, and communities. Predicting wildfire severity remains challenging because it depends on multiple environmental factors.
 
@@ -37,7 +37,7 @@ The goal of this project was to determine which variables most influence burned 
 
 ---
 
-## 🎯 Project Objectives
+## Project Objectives
 
 - Analyze the environmental factors associated with wildfire size.
 - Identify relationships between weather conditions and burned area.
@@ -47,7 +47,7 @@ The goal of this project was to determine which variables most influence burned 
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 **Dataset:** Forest Fires
 
@@ -74,7 +74,7 @@ The goal of this project was to determine which variables most influence burned 
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 ### Programming
 
@@ -117,7 +117,7 @@ Business Recommendations
 
 ---
 
-## 🔍 Methodology
+## Methodology
 
 The project followed an end-to-end analytical workflow:
 
@@ -137,7 +137,7 @@ The project followed an end-to-end analytical workflow:
 
 ---
 
-# 📊 Exploratory Data Analysis
+# Exploratory Data Analysis
 
 ## Feature Distributions
 
@@ -189,7 +189,7 @@ Residual analysis was performed to assess model assumptions, evaluate prediction
 
 ---
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 Regression models were evaluated using:
 
@@ -217,7 +217,7 @@ Model assumptions were assessed using:
 
 ---
 
-## 🔍 Key Findings
+## Key Findings
 
 - The burned area variable exhibited a highly right-skewed distribution with numerous extreme values.
 - Temperature and drought-related variables showed stronger relationships with burned area than rainfall.
@@ -228,7 +228,7 @@ Model assumptions were assessed using:
 
 ---
 
-## 💡 Business Recommendations
+## Business Recommendations
 
 - Incorporate additional variables such as vegetation type, topography, and human activity to improve predictive performance.
 - Explore ensemble machine learning models such as Random Forest and XGBoost.
@@ -237,7 +237,7 @@ Model assumptions were assessed using:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 forest-fires-analysis/
 │
@@ -255,7 +255,7 @@ forest-fires-analysis/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ```bash
 git clone https://github.com/Fascos/forest-fires-analysis.git
@@ -267,7 +267,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Running the Project
+## Running the Project
 
 1. Clone the repository.
 2. Install the required dependencies.
@@ -276,7 +276,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 - Explore tree-based ensemble models such as Random Forest and XGBoost.
 - Incorporate additional environmental variables.
@@ -292,8 +292,8 @@ pip install -r requirements.txt
 
 Health Informatics Graduate | Data Science & Machine Learning
 
-📧 fascosjepleting@gmail.com
+ fascosjepleting@gmail.com
 
-🔗 LinkedIn: https://www.linkedin.com/in/fascos-jepleting/
+ LinkedIn: https://www.linkedin.com/in/fascos-jepleting/
 
 ---
