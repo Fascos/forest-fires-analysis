@@ -1,6 +1,8 @@
 # 🌲 Forest Fires Analysis
 
-![Forest Fire Banner](images/forest_fire_banner.jpg)
+<p align="center">
+  <img src="images/forest_fire_banner.jpg" alt="Forest Fire Banner" width="100%">
+</p>
 
 An end-to-end data science project exploring the environmental factors that influence wildfire size and severity using exploratory data analysis, statistical modeling, and machine learning.
 ---
